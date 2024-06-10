@@ -1,0 +1,1 @@
+{"version":3,"file":"organization.js","sourceRoot":"","sources":["../../src/routes/organization.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,sDAA8B;AAE9B,8FAAgF;AAEhF,MAAM,MAAM,GAAW,iBAAO,CAAC,MAAM,EAAE,CAAC;AAExC,MAAM,CAAC,GAAG,CAAC,GAAG,EAAE,sBAAsB,CAAC,6BAA6B,CAAC,CAAC;AACtE,MAAM,CAAC,IAAI,CAAC,GAAG,EAAE,sBAAsB,CAAC,4BAA4B,CAAC,CAAC;AAEtE,kBAAe,MAAM,CAAC"}
